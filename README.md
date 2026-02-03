@@ -9,8 +9,6 @@ This script crawls the Spring Engineering blog category pages and builds an `ind
 
 ## Usage
 
-From `/Users/davidsantos/Downloads`:
-
 ```sh
 python3 build_spring_ai_index.py
 ```
